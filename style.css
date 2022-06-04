@@ -1,0 +1,162 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    }
+.header{
+    background-color: lightcoral;
+    text-align: center;
+    color:white;
+    padding: 20px;
+    max-width: 100%;
+    
+}
+footer{
+    background-color: lightcoral;
+    text-align: center;
+    color:white;
+    padding: 20px;
+    max-width: 100%;
+    
+}
+.header h2{
+    text-shadow: 2px 4px 5px black;
+}
+
+
+.deserts{
+    color:white;
+}
+.slike{
+    max-width: 100%;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.container-fluid{
+    max-width: 100%;
+}
+
+.login{
+    
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: lightseagreen;
+}
+form{
+    margin: 20px;
+    color: white;
+}
+
+.loginski{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#button{
+    color: white;
+    background-color: salmon;
+    border: 0;
+}
+img{
+    margin-top: 10px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+
+.border{
+
+    box-shadow: 5px 5px 20px gray;
+    
+}
+
+nav{
+    width: 1000px;
+    padding: 25px;
+    margin: 0 auto;
+    text-align: center;
+    color:white;
+    
+}
+.row{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding: 20px;
+
+}
+.tablica{
+    border: lightcoral;
+    border-width: 4px;
+    display: block;
+    margin: 0 auto;
+}
+.krugic{
+    background-color: lightcoral;
+    border-radius: 5;
+    padding: 5px;
+    color: white;
+    width: 25%;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.krugic:hover{
+    text-decoration: none;
+    color: pink;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+li{
+    float:left;
+    width: 25%;
+}
+a {
+    padding: 10px;
+    color: lightcoral;
+    background-color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.razmak {
+    padding-right: 5px;
+    width: 33%;
+}
+.tekst1{
+    text-align: center;
+    background-color: #8BC34A;
+    padding: 10px;
+    color:black;
+}
+
+
+nav a:hover{
+    color: lightblue;
+    background-color: white;
+    text-decoration: none;
+    
+}
+
+.rozi{
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}

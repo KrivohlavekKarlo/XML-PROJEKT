@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KOLACI>
+    <TORTA>
+        <IME>Cokoladna torta</IME>
+        <KALORIJE>280</KALORIJE>
+        <BJELANCEVICE>50</BJELANCEVICE>
+        <UGLJIKOHIDRATI>21</UGLJIKOHIDRATI>
+        
+    </TORTA>
+    <TORTA>
+        <BJELANCEVICE>Torta od limuna</BJELANCEVICE>
+        <KALORIJE>210</KALORIJE>
+        <BJELANCEVICE>33</BJELANCEVICE>
+        <UGLJIKOHIDRATI>24</UGLJIKOHIDRATI>
+    </TORTA>
+
+    <TORTA>
+        <IME>Torta od jagode</IME>
+        <KALORIJE>440</KALORIJE>
+        <BJELANCEVICE>42</BJELANCEVICE>
+        <UGLJIKOHIDRATI>55</UGLJIKOHIDRATI>
+    </TORTA>
+
+    <TORTA>
+        <IME>Pita od jabuke</IME>
+        <KALORIJE>220</KALORIJE>
+        <BJELANCEVICE>10</BJELANCEVICE>
+        <UGLJIKOHIDRATI>54</UGLJIKOHIDRATI>
+    </TORTA>
+
+    
+</KOLACI>
